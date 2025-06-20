@@ -19,4 +19,4 @@ A Telegram bot for searching FM radio stations by city, frequency, or region in 
 ```bash
 git clone https://github.com/codifin/CodFM.git
 cd CodFM
-pip install -r requirements.txt```
+pip install -r requirements.txt
